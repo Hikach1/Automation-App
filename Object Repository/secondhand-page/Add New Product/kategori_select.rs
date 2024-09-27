@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kategori_select</name>
+   <tag></tag>
+   <elementGuidId>436c765a-7e1b-440e-b262-ecea00388114</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Spinner[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_category&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Spinner[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_category&quot;]</value>
+      <webElementGuid>fe224d16-2e88-476d-b8b9-dc7dd6ba3b03</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.002 - As a user, I can edit Profile Photo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2a4b705-d2e6-480f-8f8a-dc713c846aa7</testCaseGuid>
+</TestCaseEntity>

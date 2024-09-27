@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>plus_button</name>
+   <tag></tag>
+   <elementGuidId>e2c69cb6-f586-444c-a2c9-130c18bc969c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.ImageButton[@content-desc=&quot;Jual&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageButton[@content-desc=&quot;Jual&quot;]</value>
+      <webElementGuid>5202e736-5472-47f7-96a9-af692e0fe230</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

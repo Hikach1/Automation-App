@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.007 - As a user, I cant edit profile when the Nama field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cead14b5-8f23-45c1-912a-3f6a17b0a823</testCaseGuid>
+</TestCaseEntity>

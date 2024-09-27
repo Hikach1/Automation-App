@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.ADD.004 - Clicking the Add button without Filling in the Product Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36761c40-9c45-4bc6-99f3-7935d02d5011</testCaseGuid>
+</TestCaseEntity>

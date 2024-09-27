@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PO.006 - Submitting a Negotiation Request with a Price of zero</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>119d14be-d7ca-44e8-86e6-6799d160c298</testCaseGuid>
+</TestCaseEntity>

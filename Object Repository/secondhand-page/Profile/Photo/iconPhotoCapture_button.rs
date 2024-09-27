@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconPhotoCapture_button</name>
+   <tag></tag>
+   <elementGuidId>d9f4295a-1526-49da-b1e9-039ad0f8cda5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.FrameLayout[@resource-id=&quot;com.android.camera2:id/bottombar_capture&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.FrameLayout[@resource-id=&quot;com.android.camera2:id/bottombar_capture&quot;]</value>
+      <webElementGuid>7988b9c8-44d3-43d3-85fb-73835e636d60</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

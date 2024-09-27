@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.005 - As a user, I can edit profile on Kota field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9b6ed79-9825-471e-bffb-55c944f4f85c</testCaseGuid>
+</TestCaseEntity>
