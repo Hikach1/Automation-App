@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nego_button</name>
+   <tag></tag>
+   <elementGuidId>dcdd0ac0-3305-4098-a57e-acc820fe35fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_bid&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_bid&quot;]</value>
+      <webElementGuid>0a3603a4-71fe-4f1e-9b48-8f0070ea2706</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titlePopup_text</name>
+   <tag></tag>
+   <elementGuidId>3404a3ed-ab90-4b26-a108-b94a0c500f80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_bottom_sheet_title&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_bottom_sheet_title&quot;]</value>
+      <webElementGuid>bdc9ee9e-506a-4815-9e8a-a3d4050724e6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

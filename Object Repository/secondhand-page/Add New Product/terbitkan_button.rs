@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>terbitkan_button</name>
+   <tag></tag>
+   <elementGuidId>e0063094-7339-4d5e-aba0-60cecbe4e694</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_publish&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_publish&quot;]</value>
+      <webElementGuid>bb0ebd69-493f-458c-b82c-4e027e9ac0cc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

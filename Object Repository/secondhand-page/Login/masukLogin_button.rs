@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>masukLogin_button</name>
+   <tag></tag>
+   <elementGuidId>169c2238-e157-4c49-90f4-aed85f9cf5aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_login&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_login&quot;]</value>
+      <webElementGuid>bbc9fe66-7d15-4e9e-8268-9cccf1763008</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

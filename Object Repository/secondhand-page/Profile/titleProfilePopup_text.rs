@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleProfilePopup_text</name>
+   <tag></tag>
+   <elementGuidId>f0429618-7c8d-4e62-bc92-75f96b29dd51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_bottom_sheet_title&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_bottom_sheet_title&quot;]</value>
+      <webElementGuid>a7e75682-e530-49cd-92a8-468f580b680e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

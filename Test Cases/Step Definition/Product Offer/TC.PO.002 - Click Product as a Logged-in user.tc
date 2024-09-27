@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PO.002 - Click Product as a Logged-in user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e89e320-67cf-4ae2-8c3a-44cf883071f2</testCaseGuid>
+</TestCaseEntity>
